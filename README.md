@@ -6,7 +6,7 @@
 src="https://github.com/30-Days-of-Projects/7_Drop_Down_List/blob/main/Drop_Down_List.png">
 
 - 🔭   This is the 7th project from my 30 Days of Project Repository.
-- 🔭   In this Project I have make a drop down list which is mostly used in navbars .
+- 🔭   In this Project I have make a drop down list which is mostly used in navbars.
 - 🔭   It will be used in lot of websites.
 - 🔭   Thank You for Visiting here...
 
